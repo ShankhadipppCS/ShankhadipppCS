@@ -12,7 +12,7 @@
 - 💼 Passionate Full Stack Developer focused on *scalable web apps*
 - 🧪 Exploring *Golang, React, Docker, and system design*
 - 💬 Ask me about *JavaScript, Golang, Python, MongoDB, APIs*
-- 📫 Reach me at *shankhadip4@gmail.com*
+- 📫 Reach me at *shankhadipmandal4@gmail.com*
 - 📍 Based in *India*
 
 ---
