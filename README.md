@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#f76300;">Shankhadip</span></h1>
-<h3 align="center">💻 Full Stack Developer | ⚙️ Golang & Web Dev Enthusiast | 🌍 India</h3>
+<h3 align="center">💻 Python Developer | ⚙️ AI ML & Python Development Enthusiast | 🌍 India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🧠+Full+Stack+Developer;⚙️+Golang+Backend+Fan;🌱+Lifelong+Learner" alt="Typing SVG" />
@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 
-- 💼 Passionate Full Stack Developer focused on *scalable web apps*
-- 🧪 Exploring *Golang, React, Docker, and system design*
-- 💬 Ask me about *JavaScript, Golang, Python, MongoDB, APIs*
+- 💼 Passionate Python and Machine Learning Developer focused on *scalable web apps*
+- 🧪 Exploring *ML, React, Docker, and system design*
+- 💬 Ask me about *JavaScript, Python, MongoDB, APIs*
 - 📫 Reach me at *shankhadipmandal4@gmail.com*
 - 📍 Based in *India*
 
