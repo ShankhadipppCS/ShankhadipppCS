@@ -2,7 +2,7 @@
 <h3 align="center">💻 Python Developer | ⚙️ AI ML & Python Development Enthusiast | 🌍 India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🧠+Python+Developer;⚙️+AI+&+ML+Developer;🌱+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🧠+Python+Developer;⚙️+AI+ML+Developer;🌱+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
